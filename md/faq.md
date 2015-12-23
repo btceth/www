@@ -12,6 +12,10 @@
 
 ### What are you trying to achieve?
 
+## 项目
+
+### 你们正在努力实现什么目标？
+
 Our mission is to build the future infrastructure of the sharing economy by enabling anyone to rent, sell or share anything - without middlemen.
 
 Slock.it strives to improve the experience of sharing items by:
@@ -30,6 +34,8 @@ For a good introduction to our vision, please see Christoph Jentzsch's [introduc
 
 ### What is Slock.it potential market?
 
+### Slock的潜在市场是什么？
+
 Anywhere where there are underused assets such as parked cars, parking slots or temporarily vacant apartments, there is an entrepreneur who can make a profit using SLock.it. Our solution enables both consumers and businesses to turn these assets into income. Almost anything can be retrofitted with a Slock: homes, offices, power tools, bicycles, household electronics, cars, motorcycles and of course lockers.
 
 The sharing economy has created [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) different billion-dollar companies with 60,000 employees. The sector has received close to $15 billion in funding so far and its global yearly revenue is projected to reach $335 billion by 2025 (source: [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf)).
@@ -41,6 +47,8 @@ The millennials' philosophy is fast becoming "If you can rent it, why own it". 6
 
 
 ### Who are Slock.it's potential partners?
+
+### 谁是Slock的潜在合作伙伴？
 
 We are currently reaching out to a number of partners, in particular:
 
@@ -54,6 +62,8 @@ We are currently reaching out to a number of partners, in particular:
 
 ### Is Slock.it open source?
 
+### Slock开源吗？
+
 If Slock.it GmbH is selected as the first service provider for the DAO, we will make all the code, the smart contracts, user interfaces, mobile apps, and everything forming the Slock.it DAO free and open source, for anyone to use and re-purpose. We'll not only make these things public, we'll also do everything in our power to see companies other than us develop Slock.it compatible products, as we are keen to see the ecosystem grow beyond what we started.
 
 
@@ -63,6 +73,8 @@ Slock.it GmbH will put forward a proposal to become the DAO's service provider a
 
 
 ### Can I help with anything?
+
+### 我能帮助Slock做些事情吗？
 
 Yes, it's an open source project and everyone is encouraged to participate in any way they can. We're currently trialling a volunteer program. 
 
@@ -81,12 +93,18 @@ To join, simply connect with one of us in our [chat room](http://Slock.it:3000/)
 
 ## How it works
 
+## Slock是如何运行的？
+
 ### What are 'Slocks'?
+
+### Slock是什么？
 
 'Slock' is a porte-manteau of 'Smart, Safe and Secure Lock'. Any object supporting ZigBee, Z-Wave, Bluetooth LE or Wi-Fi can already be used as a Slock thanks to our first product, the Ethereum Computer. When it comes to powering up a ‘dumb’ object, it will just be a case of retrofitting it using smart plugs. Slocks will also come in many shapes and sizes: bike locks, car locks and door locks are already being explored through partnerships with IoT manufacturers.
 
 
 ### How do Slocks work?
+
+### Slock的工作机制是什么？
 
 The owner of a Slock sets a deposit amount and a price for using the item. A user can find the Slock and its price using the mobile app then make a payment on the Ethereum blockchain, thereby gaining permission to open or close that Slock.
 
@@ -97,20 +115,28 @@ All of this happens without any assistance from any third-party.
 
 ### Will users have to pay every time they use a Slock?
 
+### 用户每次使用Slock时必须进行支付吗？
+
 They won't have to, only renting access to the lock costs money. Any current user (which could also include the owner) sends [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-Overview)-signed messages (which do not cost anything) to open or close the door.
 
 
 ### Will users be able to use a debit or credit card to open a Slock?
+
+### 用户能够使用借记卡或者信用卡打开Slock吗？
 
 We're currently approaching various financial institutions to try and make this a reality.
 
 
 ### Aren't the Slocks going to get vandalized?
 
+Slock不会被人恶意破坏吗？
+
 Of course some will, as Slocks aren't a panacea for theft or damage. What Slocks can do that traditional locks cannot, is provide an insurance option 'baked' into the usage contract. The first implementation of this insurance will be setting a deposit, which in the case of items that are too cumbersome to transport - or are of a low enough value - will work quite well. A more complex future implementation will include a link to a sharing economy insurance contract, something we are currently working on with partners.
 
 
 ### What happens if there is no power or Internet?
+
+### 如果断电或者断网时，Slock会发生什么？
 
 The same thing that would happen if any other smart lock was employed: some will 'fail secure' while others will 'fail safe'. Which mode of operation is used is not determined by the Slock DAO, but instead by the use case and local regulation. For example, fire rated and hotel room doors will probably 'fail safe' while a locker will certainly 'fail secure').
 
@@ -119,7 +145,11 @@ The same thing that would happen if any other smart lock was employed: some will
 
 ## The Product
 
+## 产品
+
 ### What exactly is the "Ethereum Computer"?
+
+### “以太坊计算机”究竟是什么？
 
 It’s the easiest entry point to the world of Ethereum, without having to struggle setting up a client, buying ether from an exchange or worrying about security updates.
 
@@ -134,6 +164,8 @@ Think of a little box that manages your permissions and identity, with strong en
 
 ### What could I do with the Ethereum Computer?
 
+### 我能用以太坊计算机做什么？
+
 - Enable your entire home to communicate with the blockchain: rent your flat, or share any Slock.it enabled smart object directly and securely.
 - Try out new, exciting applications: The Ethereum Computer is a full blown implementation of the Ethereum stack, and therefore can serve any Dapp via HDMI out to your home theater.
 - Browse web3 securely: you can simply point your browser, mobile phone or tablet to the Ethereum Computer, and the 3rd party web servers will only be used to serve static HTML assets, while your precious keys will safely stay within the confines of your home.
@@ -144,15 +176,21 @@ Think of a little box that manages your permissions and identity, with strong en
 
 ### Will it be hackable/open?
 
+### 以太坊计算机是开放
+
 Absolutely. We'll not only make the devkit images publicly available, but also all of the detailed code that went into building the 'stack' so you can modify/improve on the installation. One thing we're aiming to do is use a hardware (board+SoC) combination that is commercially available so that one could completely rebuild the Ethereum Computer from scratch if they wanted to. Having some GPIO available will also allow anyone to connect wired objects to the Ethereum network. We want you to be able to experiment!
 
 
 ### When will the Ethereum Computer become available for sale?
 
+#### 以太坊计算机什么时候开始销售？
+
 Sometime in 2017, although we anticipate devkits much earlier as part of an iterative development process.
 
 
 ### Will it be useful for mining?
+
+### 以太坊计算机能用来挖矿吗？
 
 The Ethereum Computer is a full Ethereum client and therefore perfectly capable to have its mining function enabled. That said, it would not be a good platform to mine on while Ethereum is still using proof of work, as its form factor prevents it from having the hashing power GPUs have. The Ethereum Computer will be a perfectly appropriate platform to help secure the network, but only once Ethereum switches to proof of stake.
 
@@ -161,13 +199,19 @@ The Ethereum Computer is a full Ethereum client and therefore perfectly capable 
 
 ## The Presale
 
+## Slock代币预售
+
 
 ### When is the Slock token presale?
+
+### Slock代币什么时候开始预售？
 
 It will take place at the beginning of 2016 and will last roughly two months. Further details will be released soon. 
 
 
 ### Why do a Slock token presale?
+
+### 为什么做Slock代币预售？
 
 We're using smart contracts build on the Ethereum blockchain so people all over the world can be empowered to build a new future for the sharing economy, and in exchange for their early help, they will receive a reward in the form of Slock tokens which holds many benefits.
 
@@ -177,6 +221,8 @@ Slock tokens holders will be able to vote on important decisions relating to the
 
 
 ### What are Slock tokens?
+
+### Slock代币是什么？
 
 Slock tokens allows the holders to:
 
@@ -193,45 +239,63 @@ It's possible, by paying a one-time deployment fee to the DAO. This will remove 
 
 ### Can I mine Slock tokens?
 
+### 我能够通过挖矿获得Slock代币吗？
+
 No. Slock tokens are used purely to represent the proportion of votes a Slock token holder is entitled to as part of the DAO. If you would like to mine something, try [ether](https://github.com/ethereum/go-ethereum/wiki/Mining).
 
 
 ### Will I be able to send, receive and exchange Slock tokens?
+
+### 我能够发生、接收和交易Slock代币吗？
 
 Yes, there will be functions build in the smart contract to send/receive Slock tokens and peer to peer exchange will be possible from day one. 
 
 
 ### Will I need to be a programmer to purchase tokens?
 
+### 购买代币需要我成为一个程序员吗？
+
 No, we want to be inclusive every step of the way so that as many people as possible can participate in this new sharing community. The purchase process will be done entirely online via a simple website. If you already have an ether wallet, you'll be able to use that, or the site will just generate a wallet for you.
  
 
 ### Will anyone hold 'premined' tokens?
+
+### 有人持有“预挖的”代币吗？
 
 No. No one will get an unfair advantage: the only tokens in circulation will be the ones purchased during the Slock token presale.
 
 
 ### Will there be another opportunity to purchase tokens?
 
+### 还有另一次购买代币的机会吗？
+
 There will be only one Slock token presale. Once launched during the course of 2016, the Slock DAO will be fully autonomous and decentralized. How it then manages itself, including decisions on its finances, is entirely up to 'it'. Slock token holders will hold voting rights, be able to submit proposals, and pass motions.
 
 
 ### How will the DAO control the funds it receives during the presale?
+
+### 在预售期间，DAO9（去中心化自治组织）如何控制它收到的资金？
 
 The Slock token holders will elect the service provider of their choosing, and the conditions under which funds are distributed. These decisions are entirely governed by smart contracts, and accessible through a simple online interface.
 
 
 ### Is there a minimum goal for the presale?
 
+### 代币预售有最小
+
 Yes. A minimum of 700,000 ether (equivalent) is required to build a meaningful DAO and first product. If the minimum is not reached, participants in the presale will be able to get their funds back (denominated in ether).
 
 
 ### Will the presale accept Bitcoin, Doge, etc.?
 
+### 代币预售接受比特币、狗币等密码学货币吗？
+
 Yes, we have partnered with Shapeshift so that the Slock token presale will accept most cryptocurrencies in existence, including Ether, Bitcoin, Litecoin, Doge, Maidsafe, StorjcoinX, Bitshares, BitUSD, Nxt, Dash, Clams and many, many others.
 
 
 ### Will the Slock token presale accept FIAT currencies?
+
+### 代币预售接受法币吗？
 
 Not directly. In order to take part, you must use a cryptocurrency. To exchange FIAT for cryptocurrencies you could use an exchange such as [Kraken](https://kraken.com).
 
@@ -240,17 +304,25 @@ Not directly. In order to take part, you must use a cryptocurrency. To exchange 
 
 ## The DAO
 
+## DAO（去中心化自治组织）
+
 ### DA.. what?
+
+### DAO是什么？
 
 A Decentralized Autonomous Organization (DAO) is a form of company which operates entirely on the blockchain. In our case, the DAO is made up of Slock token holders that can review proposals and cast their votes to elect and direct a service provider which will represent them in the physical world. This process is very similar to selecting a vendor or supplier. A DAO is however superior in many respects to a traditional company in the sense that all the decisions it makes are transparent, its finances can be audited by anyone and corruption is impossible.
 
 
 ### Is this just for geeks?
 
+### 这只是为极客准备的吗？
+
 Definitely not. In order to make decisions, token holders will be able to vote using a straightforward interface using Mist, the Ethereum browser. You'll have to be able to install software on your machine, and use what essentially looks and feel like a website. That's it.
 
 
 ### What can the DAO do exactly?
+
+### DAO究竟能做什么？
 
 The DAO can choose a service provider to implement a technology or develop a product, either by sending funds directly or signing a smart contract. The smart contract specifies the terms of the relationship between the DAO and its service provider.
 
@@ -261,15 +333,22 @@ What parameters are available depend on the service provider's smart contract an
 
 ### Who can submit proposals to vote on?
 
+### 谁有权提交提议，要求进行投票？
+
 Any Slock token holder.
 
+任何一个Slock代币的持有者。
 
 ### How often can the DAO vote on proposals?
+
+### DAO多久对提议进行投票表决？
 
 As often as it wishes to.
 
 
 ### How will votes take place?
+
+### 投票怎样进行？
 
 Version 1 of the DAO will be released at the end of the presale to hold the funds and allow basic voting. The voting will take place via the [official Ethereum GUI wallet](https://github.com/ethereum/mist/releases), through an automatically generated HTML interface. Version 2 of the DAO (to be released at the launch of the project) will make use a completely customized Dapp accessible via [Mist](https://www.youtube.com/watch?v=IgNjs_WaFSc), the official Ethereum Dapp browser.
 
@@ -289,20 +368,29 @@ Because we believe DAOs are the future of how businesses will be structured. A D
 
 ### What's a 51% attack, and how do you prevent it?
 
+### 什么是51%攻击，你们如何阻止51%攻击？
+
 If someone was to acquire 51% of the Slock tokens, they could vote themselves as the service provider, and then send 100% of the funds to their own account. In order to prevent this, the Slock DAO is able to split itself proportionally to the vote results, leaving the attacker with their funds and the rest of the  participants with their own. Because of this mechanism, there is no incentive to run such an attack, since it is not only unprofitable, but the attacker would also be stuck with worthless tokens from their own fork of the DAO.
 
 
 ### Why is there only a single service provider at any given time?
+
+### 为什么在同一时间内Slock只有一家服务提供商？
 
 For safety reasons. In order to prevent a 51% attack, we needed to introduce the rule that the DAO may split up in case there is no mutual agreement on a selecting a service provider, which in turn removes any incentive to even attempt to bring about such an attack. Having room for more than a single service provider would negate this failsafe.
 
 
 ### How often can the DAO change service provider?
 
+### DAO多久换一次服务提供商？
+
 At anytime.
+任何时候都可以换。
 
 
 ### What is the process for selecting a new service provider?
+
+### 选择一个新的服务提供商的过程是什么？
 
 This takes place in two steps. The first step is a simple vote on keeping the existing service provider or choosing a new one. The second step is a confirmation vote, where the minority, having lost the previous vote but comfortable the winner is indeed not an attacker, can vote alongside the majority in order to avoid splitting the DAO. On the other hand, if the minority does suspects a 51% attack, it's important for it to keep its ability to stick with its decision to split the DAO, effectively rendering any attack unprofitable.
 
