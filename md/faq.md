@@ -84,13 +84,14 @@ We are currently reaching out to a number of partners, in particular:
 ### Slock开源吗？
 
 If Slock.it GmbH is selected as the first service provider for the DAO, we will make all the code, the smart contracts, user interfaces, mobile apps, and everything forming the Slock.it DAO free and open source, for anyone to use and re-purpose. We'll not only make these things public, we'll also do everything in our power to see companies other than us develop Slock.it compatible products, as we are keen to see the ecosystem grow beyond what we started.
-如果Slock.it
+如果Slock.it GmbH被选为DAO（去中心化自治组织）的第一个服务提供商，那么我们将开源所有的代码，包括智能合约、用户界面、移动应用和构成Slock.it DAO的所有组件，任何人都可以使用这些代码，将这些代码应用到其它项目。我们不仅将公开这些代码，我们也将尽我们所能让其它公司开发与Slock.it兼容的产品，我们非常渴望看到整个生态系统繁荣起来。
 
 
 ### What's in it for Slock.it GmbH then?
 ### 那么
 
 Slock.it GmbH will put forward a proposal to become the DAO's service provider at the end of the token presale. Slock.it GmbH is a for profit company, and the DAO will hopefully become one of its clients. It's critical for us to see aligned incentives between the DAO and our company, so you can expect a symbiotic relationship - what we will work on privately will also benefit the Slock.it ecosystem as a whole. For example, Slock.it GmbH could engage in partnerships with lock manufacturers, consult for real estate companies building smart homes, integrate the Slock.it API at part of popular smart objects, work with banks for Slocks to accept FIAT payments, etc. 
+Slock.it GmbH是一家盈利性公司，DAO将成为Slock.it GmbH的客户之一。  例如，Slock.it GmbH可以与锁生产商达成合作伙伴关系，为开发智能家庭的房地产公司提供咨询，将Slock.it API（应用程序接口）与流行的智能产品整合，与银行合作，是的Slock可以接受法币支付等。
 
 
 ### Can I help with anything?
@@ -98,18 +99,25 @@ Slock.it GmbH will put forward a proposal to become the DAO's service provider a
 ### 我能帮助Slock做些事情吗？
 
 Yes, it's an open source project and everyone is encouraged to participate in any way they can. We're currently trialling a volunteer program. 
+Slock是一个开源项目，每个人都可以自己的方式参与进来。目前，我们正在尝试一个志愿者计划。
 
 Things we could use help with include:
+以下事情，需要志愿者的帮助：
 
 - Reviewing and contributing code on [github](https://github.com/Slockit/) (it's an open source project after all!)
 - Analysing the market in different parts of the world
 - Translating the site, the whitepaper, the videos and the apps
 - Operating local forums (especially in non-roman character sets)
 - Testing prototype hardware
+- 在[github](https://github.com/Slockit/)上审核和提交代码。（这是一个开源项目！）
+- 分析世界各地的市场
+- 翻译Slock.it网站、白皮书、视频和应用（APP）
+- 运作当地的论坛（特别是在非拉丁字母地区）
+- 测试硬件原型
 
 To join, simply connect with one of us in our [chat room](http://Slock.it:3000/).
 
-
+在我们的[聊天室](http://Slock.it:3000/)与Slock正式成员中的一位进行联系，就可以加入。
 
 
 ## How it works
@@ -121,6 +129,7 @@ To join, simply connect with one of us in our [chat room](http://Slock.it:3000/)
 ### Slock是什么？
 
 'Slock' is a porte-manteau of 'Smart, Safe and Secure Lock'. Any object supporting ZigBee, Z-Wave, Bluetooth LE or Wi-Fi can already be used as a Slock thanks to our first product, the Ethereum Computer. When it comes to powering up a ‘dumb’ object, it will just be a case of retrofitting it using smart plugs. Slocks will also come in many shapes and sizes: bike locks, car locks and door locks are already being explored through partnerships with IoT manufacturers.
+Slock是
 
 
 ### How do Slocks work?
