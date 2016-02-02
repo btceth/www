@@ -186,14 +186,19 @@ The same thing that would happen if any other smart lock was employed: some will
 ### “以太坊计算机”究竟是什么？
 
 It’s the easiest entry point to the world of Ethereum, without having to struggle setting up a client, buying ether from an exchange or worrying about security updates.
+它是通往以太坊世界的捷径，没有繁琐的设置，不需要在交易所购买以太就能使用，没有安全更新的烦恼。
 
 The Ethereum computer is a tiny, preinstalled, preconfigured home server running both an optimized Ethereum node and exciting new decentralised applications, including Mist. The Ethereum Computer is putting identity, funds and personal information back under the users’ control, and we think it’s going to change _everything_.
 
 Think of a little box that manages your permissions and identity, with strong encryption and permission control. Inside you’ll find a web3 identity vault, a Slock gateway to your IoT, and even experimental software like an IPFS server to rent your unused hard drive space — automatically.
+想象一下，一个加密的能帮你管理权限和身份的小盒子，你可以在里面发现web3身份ID仓库，一个通向物联网的Slock网关，甚至诸如IPFS服务器这样的实验性软件，它可以自动的出租你空闲的硬盘空间！
 
 - It’s the easier way to browse Dapps.
 - It’s a secure gatekeeper between the web & web3 to your home or small office IoT, communicating wirelessly with your smart objects.
 - And it’s also a brilliant development platform, packaging all the software needed to build Ethereum Dapps as part of a straightforward, optimized image.
+- 它让你更容易使用Dapp。
+- 它是互联网与你本地智能家居网络之间的安全网关，通过无线方式与你的智能硬件通信。
+- 它还是一个极好的开发平台，把所有构建以太坊应用所需要的软件都优化打包在一个镜像里。
 
 
 ### What could I do with the Ethereum Computer?
