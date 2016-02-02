@@ -49,12 +49,13 @@ Anywhere where there are underused assets such as parked cars, parking slots or 
 无论哪里存在没有被利用的资产，例如  或者临时性的闲置公寓，企业家就可以利用Slock.it从中赚到利润。我们的解决使得消费者和商家都可以将这些资产变成收入。几乎任何东西都可以用Slock进行改造：房屋、办公室、电力、工具、自行车、家用电器、汽车、摩托车，当然还有锁。
 
 The sharing economy has created [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) different billion-dollar companies with 60,000 employees. The sector has received close to $15 billion in funding so far and its global yearly revenue is projected to reach $335 billion by 2025 (source: [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf)).
-共享经济已经创造了
+共享经济已经创造了[17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/)个价值10亿美元以上的企业，员工超过60000名。到目前为止这个领域已经收到近150亿美元的投资，到2025年全球每年分享经济行业的收入将高达3350亿美元(来源: [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf))
 
 We believe that very soon, cars will be available for rent in the streets of every city, Airbnbs will be fully automated, and small business owners will prefer to rent private work spaces on demand rather than commit to complex leases. Owners in a sharing economy become both consumers and producers, leveraging Slocks to earn an income without losing revenue to any third party.
+我们相信，汽车很快将在每一个城市街道上被出租，Airbnb将完全自动化运营，小商家将更喜欢按需租用私有工作场地，而不是复杂的租赁。分享经济中的所有者既是消费者也是生产者，利用Slock专区收入，同时不会 
 
 The millennials' philosophy is fast becoming "If you can rent it, why own it". 66% of the world is willing to share or rent their personal assets for financial gain, and that figure is as high as [94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf) in China. We believe Slock.it is uniquely placed to address those needs worldwide, today.
-
+千禧年一代的信奉的哲学很快变成了“如果你可以租，为什么要买”。全世界66%的人乐意分享或者出租他们个人资产，赚取收益，这个比例在中国更是高达[94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf)。我们相信Slock.it正是为解决这些需求而生的。
 
 
 ### Who are Slock.it's potential partners?
@@ -62,6 +63,7 @@ The millennials' philosophy is fast becoming "If you can rent it, why own it". 6
 ### 谁是Slock的潜在合作伙伴？
 
 We are currently reaching out to a number of partners, in particular:
+目前，我们正在与一些合作伙伴进行沟通，特别是以下领域的合作伙伴：
 
 - Sharing economy insurance providers
 - Manufacturers of smart locks for the home and offices
@@ -69,6 +71,12 @@ We are currently reaching out to a number of partners, in particular:
 - Real estate companies investing in smart homes
 - Hotels and BnBs
 - Other Ethereum and cryptocurrency businesses
+- 分享经济保险服务提供商
+- 生产住宅和办公室智能锁生产商
+- 自行车电子锁生产商
+- 投资智能家庭的房地产公司
+- 酒店和BnB
+- 其它以太坊和密码学货币项目
 
 
 ### Is Slock.it open source?
@@ -76,9 +84,11 @@ We are currently reaching out to a number of partners, in particular:
 ### Slock开源吗？
 
 If Slock.it GmbH is selected as the first service provider for the DAO, we will make all the code, the smart contracts, user interfaces, mobile apps, and everything forming the Slock.it DAO free and open source, for anyone to use and re-purpose. We'll not only make these things public, we'll also do everything in our power to see companies other than us develop Slock.it compatible products, as we are keen to see the ecosystem grow beyond what we started.
+如果Slock.it
 
 
 ### What's in it for Slock.it GmbH then?
+### 那么
 
 Slock.it GmbH will put forward a proposal to become the DAO's service provider at the end of the token presale. Slock.it GmbH is a for profit company, and the DAO will hopefully become one of its clients. It's critical for us to see aligned incentives between the DAO and our company, so you can expect a symbiotic relationship - what we will work on privately will also benefit the Slock.it ecosystem as a whole. For example, Slock.it GmbH could engage in partnerships with lock manufacturers, consult for real estate companies building smart homes, integrate the Slock.it API at part of popular smart objects, work with banks for Slocks to accept FIAT payments, etc. 
 
