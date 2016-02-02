@@ -17,8 +17,10 @@
 ### 你们正在努力实现什么目标？
 
 Our mission is to build the future infrastructure of the sharing economy by enabling anyone to rent, sell or share anything - without middlemen.
+我们的目标是建立未来的分享经济基础设施，让任何人无需中介就可以出租、出售或者分享任何物品。
 
 Slock.it strives to improve the experience of sharing items by:
+Slock.it努力通过以下方式提高分享物品的体验：
 
 - Making trusting the other party as unnecessary as possible
 - Handling secure direct P2P payments
@@ -26,19 +28,28 @@ Slock.it strives to improve the experience of sharing items by:
 - Freeing the users from having to coordinate with each other to hand over keys
 - Enabling both owners and renters to find each other
 - Supporting almost any objects including cars, lockers, apartments, sheds, office space, etc.
+- 尽可能地减少信任第三方
+- 实现安全、直接的P2P支付
+- 提供存款机制，最终
+- 使得用户不必亲自交接钥匙
+- 使得出租者和租客能够发现对方
+- 支持任何物品出租，包括汽车、锁、公寓、仓库、办公室等等
 
 If it can be locked, it can be Slocked!
+如果它能被锁住，它就可以被Slock！
 
 For a good introduction to our vision, please see Christoph Jentzsch's [introductory blog post](https://blog.Slock.it/Slock-it-blog/Slock-it-decentralizing-the-emerging-sharing-economy-cf19ce09b957#.4j2mtca7t).
-
+如果你想更好地理解我们的愿景，请看Christoph Jentzsch所写的博客
 
 ### What is Slock.it potential market?
 
 ### Slock的潜在市场是什么？
 
 Anywhere where there are underused assets such as parked cars, parking slots or temporarily vacant apartments, there is an entrepreneur who can make a profit using SLock.it. Our solution enables both consumers and businesses to turn these assets into income. Almost anything can be retrofitted with a Slock: homes, offices, power tools, bicycles, household electronics, cars, motorcycles and of course lockers.
+无论哪里存在没有被利用的资产，例如  或者临时性的闲置公寓，企业家就可以利用Slock.it从中赚到利润。我们的解决使得消费者和商家都可以将这些资产变成收入。几乎任何东西都可以用Slock进行改造：房屋、办公室、电力、工具、自行车、家用电器、汽车、摩托车，当然还有锁。
 
 The sharing economy has created [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) different billion-dollar companies with 60,000 employees. The sector has received close to $15 billion in funding so far and its global yearly revenue is projected to reach $335 billion by 2025 (source: [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf)).
+共享经济已经创造了
 
 We believe that very soon, cars will be available for rent in the streets of every city, Airbnbs will be fully automated, and small business owners will prefer to rent private work spaces on demand rather than commit to complex leases. Owners in a sharing economy become both consumers and producers, leveraging Slocks to earn an income without losing revenue to any third party.
 
